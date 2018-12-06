@@ -2,7 +2,7 @@
   "name": "dist",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000M\u0000y\u0000W\u0000e\u0000b\u0000s\u0000i\u0000t\u0000e\u0000\r\u0000 \u0000",
-  "main": "index.bundle.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
